@@ -29,7 +29,7 @@ Register No: 212222230026
 
 ### Get the input String
 ```python
-string = 'Chandru 212222230026'
+string = 'CHANDRU 10'
 class NodeTree(object):
     def __init__(self, left=None, right=None):
         self.left = left
@@ -76,7 +76,7 @@ for (char, frequency) in freq:
     print(' %-4r |%12s' % (char, huffmanCode[char]))
 ```
 ## Output:
-![image](https://github.com/chandrumathiyazhagan/HUFFMAN-CODING-/assets/119393023/aa605020-642e-43bc-aa29-005203dd7e98)
+![Screenshot from 2023-11-06 14-09-56](https://github.com/chandrumathiyazhagan/HUFFMAN-CODING-/assets/119393023/10b0f9d8-62e3-4388-bc60-97f0eb3b6797)
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
